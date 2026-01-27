@@ -1,4 +1,4 @@
-# 🧩 Exercício de JavaScript — Eventos e Interatividade 🇧🇷
+# 🧩 Exercício de JavaScript — Eventos e Interatividade | 🇧🇷
 
 Este repositório contém uma atividade acadêmica desenvolvida na **CESAR School**, utilizando **HTML e JavaScript**, com foco na **interatividade da página** por meio de eventos.
 
@@ -23,7 +23,7 @@ Atividade prática realizada na **CESAR School**, voltada para o aprendizado de 
 
 ---
 
-# 🧩 JavaScript Exercise — Events and Interactivity 🇺🇸
+# 🧩 JavaScript Exercise — Events and Interactivity | 🇺🇸
 
 This repository contains an **academic activity** developed at **CESAR School**, using **HTML and JavaScript**, with a focus on **page interactivity** through events.
 
